@@ -1,4 +1,4 @@
-# Lab 1 Webpage
+# Lab 1 
 
 ## Questions
 
